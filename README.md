@@ -5,6 +5,9 @@
 
 ## Tools for AI Learning - QuantUm Open Robotics
 
+![Quantum Strip](https://yoda-level-github-badge.vercel.app/api/qstrip?username=talquor&window=16&size=lg&caption=1&focus=entanglement)
+
+
 [![MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
 
 > Open **building blocks** for Edge AI, ROS 2, and MLOps.  
