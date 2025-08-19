@@ -5,8 +5,7 @@
 
 ## Tools for AI Learning - QuantUm Open Robotics
 
-![Quantum Strip](https://yoda-level-github-badge.vercel.app/api/qstrip?username=talquor&window=16&size=lg&caption=1&focus=entanglement)
-
+![Quantum Rotator](https://yoda-level-github-badge.vercel.app/api/qrotator?size=lg&theme=sith&dur=8)
 
 [![MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
 
