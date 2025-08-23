@@ -3,6 +3,8 @@
 # TALQUOR  
 ![Rank](https://yoda-level-github-badge.vercel.app/api/user-rank?username=talquor&badge=1&granular=1&showPoints=1&showNext=1&xp=bar&theme=sith&streak=1&streakAnchor=lastActive&logo=galaxy&t=now)
 
+![Yoda Trials](https://yoda-level-github-badge.vercel.app/api/trials?username=talquor&detailed=1&cols=3&theme=sith)
+
 
 ![Quantum Mini](https://yoda-level-github-badge.vercel.app/api/qrotator-mini?username=talquor&theme=jedi&dur=4&streak=1&xpMode=commits&xpPer=10&levelSize=100&windowDays=30)
 
