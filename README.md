@@ -11,6 +11,10 @@
 
 ## Tools for AI Learning - QuantUm Open Robotics
 
+
+![Yoda Trials](https://yoda-level-github-badge.vercel.app/api/trials?username=talquor&theme=jedi)
+
+
 ![Quantum Rotator](https://yoda-level-github-badge.vercel.app/api/qrotator?size=lg&theme=sith&dur=8)
 
 [![MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
