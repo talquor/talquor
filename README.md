@@ -1,7 +1,12 @@
 <div align="center">
 
 # TALQUOR  
-![Rank](https://yoda-level-github-badge.vercel.app/api/user-rank?username=talquor&badge=1&granular=1&showPoints=1&showNext=1&xp=bar&theme=sith&streak=1&streakAnchor=lastActive&logo=galaxy&t=now)
+
+
+![Rank](https://yoda-level-github-badge.vercel.app/api/user-rank?username=talquor&badge=1&xp=bar&streak=1&streakSource=hybrid&theme=jedi&logo=saber)
+
+
+------
 
 ![Yoda Trials](https://yoda-level-github-badge.vercel.app/api/trials?username=talquor&detailed=1&cols=3&theme=sith)
 
