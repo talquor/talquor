@@ -6,43 +6,8 @@
     src="https://yoda-level-github-badge.vercel.app/api/user-rank?username=talquor&badge=1&xp=bar&streak=1&streakSource=hybrid&theme=jedi&logo=saber"
   />
 </p>
-## 🕹️ Git Dashboard
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>Rank</strong><br/>
-      <img
-        alt="Rank"
-        src="https://yoda-level-github-badge.vercel.app/api/user-rank?username=talquor&badge=1&xp=bar&streak=1&streakSource=hybrid&theme=jedi&logo=saber"
-      />
-    </td>
-    <td align="center">
-      <strong>Yoda Trials</strong><br/>
-      <img
-        alt="Yoda Trials"
-        src="https://yoda-level-github-badge.vercel.app/api/trials?username=talquor&theme=jedi"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Quantum Concept (static)</strong><br/>
-      <img
-        alt="Quantum Concept"
-        src="https://yoda-level-github-badge.vercel.app/api/qrotator-mini?username=talquor&theme=jedi&xpStyle=saber&streak=1&streakSource=hybrid&frame=superposition"
-      />
-      <br/><sub><em>Change “frame=” to any concept key (e.g., entanglement, decoherence).</em></sub>
-    </td>
-    <td align="center">
-      <strong>Duel</strong><br/>
-      <img
-        alt="Duel"
-        src="https://yoda-level-github-badge.vercel.app/api/duel?user1=talquor&user2=drmxm&theme=sith"
-      />
-    </td>
-  </tr>
-</table>
+
 <p align="center">
   <img alt="Rank"
        src="https://yoda-level-github-badge.vercel.app/api/user-rank?username=talquor&badge=1&xp=dots&streak=1&streakSource=hybrid&theme=sith&logo=galaxy"/>
@@ -84,7 +49,6 @@
 
 **talquor vs drmxm**
   
-[![Rank Duel: talquor vs drmxm](https://yoda-level-github-badge.vercel.app/api/duel?u1=talquor&u2=drmxm&theme=jedi&xp=bar&logo=galaxy)](https://yoda-level-github-badge.vercel.app/api/duel?u1=cosminmemetea&u2=drmxm&theme=jedi&xp=bar&logo=galaxy)
 
   <p>
     <a href="https://github.com/talquor">
