@@ -1,29 +1,17 @@
 <div align="center">
 <!-- Top of README -->
-<p align="center">
-  <img
-    alt="Yoda Rank"
-    src="https://yoda-level-github-badge.vercel.app/api/user-rank?username=talquor&badge=1&xp=bar&streak=1&streakSource=hybrid&theme=jedi&logo=saber"
-  />
-</p>
 
-
-<p align="center">
-  <img alt="Rank"
-       src="https://yoda-level-github-badge.vercel.app/api/user-rank?username=talquor&badge=1&xp=dots&streak=1&streakSource=hybrid&theme=sith&logo=galaxy"/>
-  &nbsp;
-  <img alt="Trials"
-       src="https://yoda-level-github-badge.vercel.app/api/trials?username=talquor&theme=sith"/>
-  &nbsp;
-  <img alt="Quantum"
-       src="https://yoda-level-github-badge.vercel.app/api/qrotator-mini?username=talquor&theme=sith&xpStyle=bar&frame=entanglement"/>
-</p>
 
 # TALQUOR  
 
 
 ![Rank](https://yoda-level-github-badge.vercel.app/api/user-rank?username=talquor&badge=1&xp=bar&streak=1&streakSource=hybrid&theme=jedi&logo=saber)
 
+<p align="center">
+  &nbsp;
+  <img alt="Quantum"
+       src="https://yoda-level-github-badge.vercel.app/api/qrotator-mini?username=talquor&theme=sith&xpStyle=bar&frame=entanglement"/>
+</p>
 
 ------
 
