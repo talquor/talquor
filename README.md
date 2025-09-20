@@ -88,9 +88,9 @@
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /> -->
 </details>
 
 <details>
@@ -108,8 +108,8 @@
 <summary><b>Data & MLOps</b></summary>
 <br>
 <img src="https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/FiftyOne-593D88?logo=fiftyone&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/FiftyOne-593D88?logo=fiftyone&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 </details>
@@ -127,8 +127,8 @@
 <summary><b>Hardware & Edge</b></summary>
 <br>
 <img src="https://img.shields.io/badge/NVIDIA-Jetson-76B900?logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros&logoColor=white" />
 </details>
 
